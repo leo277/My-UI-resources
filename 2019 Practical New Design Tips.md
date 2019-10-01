@@ -94,3 +94,13 @@ Hover/Unhover
 
 One solid option: try turning white elements colored, or turning colored elements white, but darkening the background behind them.
 
+## Only use good fonts
+* Work Sans
+* Roboto
+* Montserrat
+* Source Sans Pro
+* Feather Icons
+
+## Steal like an artist
+* [Dribbble](https://dribbble.com)
+* [Medium](https://medium.com/)
