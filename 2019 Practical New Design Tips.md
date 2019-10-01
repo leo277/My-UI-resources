@@ -36,11 +36,11 @@ When using flat design, use shadows as visual cue for interaction
 Designing in grayscale before adding color simplifies the most complex element of visual design– and forces you to focus on spacing and laying out elements.
 Add color last, and even then, only with purpose.
 
-Color(Rules):
-Use 1/2 hue color scheme
-Darker color variation = higher saturation + lower brightness
-Lighter Color Variation = lower saturation + higher brightness
-Source: https://learnui.design/blog/color-in-ui-design-a-practical-framework.html
+>Color(Rules):
+>Use 1/2 hue color scheme
+>Darker color variation = higher saturation + lower brightness
+>Lighter Color Variation = lower saturation + higher brightness
+>Source: https://learnui.design/blog/color-in-ui-design-a-practical-framework.html
 
 
 ## Double your whitespace
