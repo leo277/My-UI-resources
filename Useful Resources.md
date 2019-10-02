@@ -11,3 +11,10 @@ Design Inspiration:
 * https://dribbble.com
 
 * https://uimovement.com
+
+Design Blogs (tutorials, cases)
+* https://blog.marvelapp.com
+* https://medium.com/design
+* https://smashingmagazine.com
+* https://webdesignernews.com
+* https://sitepoint.com/design-ux
