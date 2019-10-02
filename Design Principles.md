@@ -52,6 +52,7 @@ https://99designs.com.sg/blog/tips/principles-of-design/
 
 
 # UI Principles
+reference:https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95
 
 1. Color
 > Color vocabulary, fundamentals and the psychology of colors.
@@ -77,4 +78,16 @@ https://99designs.com.sg/blog/tips/principles-of-design/
 > The most important principle, creating intuitive and usable designs starts here.
 
 [Design principle: Consistency](https://uxdesign.cc/design-principle-consistency-6b0cf7e7339f)
+
+# Creative UX process
+![UX process](https://res.cloudinary.com/db80dscth/image/upload/v1569986351/1_g6DrAXyHxpO5I3B1oTMFRw_nmqiod.jpg)
+## Discover
+This is the start of the project. Designers start researching, getting inspired, and gathering ideas.
+## Define
+This is the definition stage, where designers define an idea extracted from the Discover phase. From this, a clear creative brief is created.
+## Develop
+This is where solutions or concepts are created, prototyped, tested and iterated. This process of trial and error helps designers to improve and refine their ideas.
+## Delivery
+The final phase is the delivery stage, where the final project is finalised, produced and launched.
+[How to streamline your UI/UX workflow with Figma](https://blog.nicolesaidy.com/how-to-streamline-your-ui-ux-workflow-with-figma-b72c30596435)
 
