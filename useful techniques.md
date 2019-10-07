@@ -3,7 +3,7 @@ x increase to the right
 y increase to the bottom
 
 
-## creating a section with image exceeding into next section
+## Creating a section with image exceeding into next section
 * Apply top section margin-bottom: x pixel
 * Apply a protruding section with top: x pixel
 * using top in relative position, will shift element in y direction
