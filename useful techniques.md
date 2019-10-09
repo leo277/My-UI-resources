@@ -97,3 +97,78 @@ HTML
         </div>
       </section>
 ```
+
+## Anchor offset with sticky header
+CSS
+```
+a.anchor:target{
+  display: block; 
+  position: relative; 
+  top: -120px;
+  visibility: hidden;
+}
+```
+HTML
+```
+<a class="anchor" id="getting-started"></a>
+<section>
+blahblah
+</section>
+```
+
+## Progress bar as scrolling down
+html
+```
+<div class="sticky-guider">
+<div class="guide-container">
+                        <div class="guide-line" id="pBar"></div>
+                    </div>
+		    </div>
+```
+css
+```
+
+.sticky-guider{
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  height: 100px;
+  width: 100%;
+  z-index: 100;
+  background-color: #f0f2f3;
+  margin: auto auto;
+}
+.sticky-guider .guide-container{
+  z-index:-1;
+  position: absolute;
+  top:45%;
+  width: 100%;
+  height: 10px;
+  background: #ccc;
+}
+.sticky-guider .guide-line{
+  z-index:-1;
+  position: absolute;
+  width: 0%;
+  height: 10px;
+  top:45%;
+  background-color: #F49644;
+}
+```
+
+javascript
+```
+    <script>
+        // When the user scrolls the page, execute myFunction
+        window.onscroll = function() {myFunction()};
+
+        function myFunction() {
+            
+          var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+          var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+          var scrolled = (winScroll / height) * 100;
+          document.getElementById("pBar").style.width = scrolled + "%";
+        }
+    </script>
+```
+	
