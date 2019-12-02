@@ -3,11 +3,8 @@ Colors:
 * https://learnui.design/tools/accessible-color-generator.html?colors=afff69,e6ff45
 * https://color.adobe.com/create
 
-
-Fonts:
-* https://simpleicons.org/
-
 SVG:
+* https://simpleicons.org/
 * https://css-tricks.com/scale-svg/
 
 Design Inspiration:
